@@ -1,0 +1,1 @@
+# license-plate-detection-using-yolov8-and-easyocr
