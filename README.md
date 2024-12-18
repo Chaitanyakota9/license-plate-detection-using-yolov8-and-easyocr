@@ -39,6 +39,6 @@ The dataset used for this project is publicly available on [Roboflow License Pla
 
 ## Installation
 
-### 1. Clone the Repository
+### Clone the Repository
 Clone this repository to your local machine:
 
