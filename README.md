@@ -2,19 +2,7 @@
 
 This repository contains a pipeline for detecting license plates in images and videos using YOLOv8 and recognizing the text on the detected license plates using EasyOCR. The project demonstrates an end-to-end workflow for real-time license plate detection and recognition.
 
----
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Dataset](#dataset)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Output](#output)
-7. [Acknowledgments](#acknowledgments)
-
----
 
 ## Overview
 
@@ -36,5 +24,18 @@ This project utilizes YOLOv8 for license plate detection and EasyOCR for text re
 The dataset used for this project is publicly available on [Roboflow License Plate Dataset](https://universe.roboflow.com/mochoye/license-plate-detector-ogxxg/dataset/2). The dataset contains annotated images of license plates from different vehicles.
 
 ---
+### Example Output:  
+**Input:**  
 
+![input](https://github.com/user-attachments/assets/599823b5-bddd-4eb5-bb1d-3d82c414f26e)
+
+
+**Output:**  
+
+![output](https://github.com/user-attachments/assets/5dc7c355-af84-46a2-93cc-2054680848e7)
+
+
+
+
+This project is licensed under the MIT License - see the LICENSE file for more details.
 
